@@ -97,6 +97,11 @@ section{
     
 
 }
+#about img{
+     padding-top: 30%;
+}
+
+
 /****Cakes***/
 #cakes{
     background: #e5e5e5;
